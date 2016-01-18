@@ -1,0 +1,20 @@
+{
+  "name": "beadando3_restapi",
+  "version": "1.0.0",
+  "description": "Szerver a 3. beadandóhoz",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojtoscsabi/alkfejl3_restapi.git"
+  },
+  "author": "Bojtos Csaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bojtoscsabi/alkfejl3_restapi/issues"
+  },
+  "homepage": "https://github.com/bojtoscsabi/alkfejl3_restapi#readme"
+}
